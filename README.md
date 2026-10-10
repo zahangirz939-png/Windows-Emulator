@@ -1,4 +1,13 @@
-Virtual Windows emulator experience for Android.Found a bug or problem? Please report it in the Issues section of this GitHub repository. Describe the problem clearly so I can investigate and improve the app.Your feedback and suggestions are always welcome. Thank you for supporting this project!
+# Windows-Emulator
 
-Download 
-https://github.com/zahangirz939-png/Windows-Emulator/releases/
+<p align="center">
+  <img src="zahangirz939-png.png" width="120" alt="Windows Emulator Icon">
+</p>
+
+Virtual Windows emulator experience for Android.
+
+### Download
+[Download APK](https://github.com/zahangirz939-png/Windows-Emulator/releases/)
+
+### Icon Preview
+![App Icon](zahangirz939-png.png)
