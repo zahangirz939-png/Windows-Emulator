@@ -1,13 +1,5 @@
-# Windows-Emulator
+# Mini Windows emulator for low end devices
 
-<p align="center">
-  <img src="zahangirz939-png.png" width="120" alt="Windows Emulator Icon">
-</p>
+![Mini Windows emulator for low end devices](./zahangirz939-png.png)
 
-Virtual Windows emulator experience for Android.
-
-### Download
 [Download APK](https://github.com/zahangirz939-png/Windows-Emulator/releases/)
-
-### Icon Preview
-![App Icon](zahangirz939-png.png)
